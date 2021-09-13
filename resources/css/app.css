@@ -16,6 +16,11 @@ Tags: black, green, white, two-columns, fixed-width, threaded-comments, sticky-p
 	3) MENU SECTION
 
 ################################################################# */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* STYLE */
 @import url(font-awesome.css) screen;
 @import url(bootstrap.css) screen;
