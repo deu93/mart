@@ -45,7 +45,8 @@
                                 <li><a href="#">Wishlist</a></li>
                                 <li><a href="#">Cart</a></li>
                                 <li><a href="#">Checkout</a></li>
-                                <li><a href="#"><i class="pe-7s-lock"></i>Login/Register</a></li>
+                                <li><a href="/login"><i class="pe-7s-lock"></i>Login</a></li>
+                                <li><a href="/register"><i class="pe-7s-lock"></i>Register</a></li>
                             </ul>
                         </div>
                     </div>
@@ -70,7 +71,7 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="#">Home</a></li>
+                            <li class="active"><a href="/">Home</a></li>
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">page</a></li>
                             <li><a href="#">shop</a></li>

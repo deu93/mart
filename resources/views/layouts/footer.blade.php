@@ -21,4 +21,11 @@
 
 
 </body>
+<style>
+    .login-style{
+        height: 800px;
+        width: 100%;
+        padding-top: 150px;   
+    }
+</style>
 </html>
