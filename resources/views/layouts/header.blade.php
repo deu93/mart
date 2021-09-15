@@ -44,9 +44,15 @@
                                 <li><a href="#">My Account</a></li>
                                 <li><a href="#">Wishlist</a></li>
                                 <li><a href="#">Cart</a></li>
-                                <li><a href="#">Checkout</a></li>
+                                <li><a class="mr-5" href="#">Checkout</a></li>
+                                @auth()
+                                <li><a class="ml-5 p-5 border-2" href="/login">{{ auth()->user()->name }}</a></li>
+                                <li><a href="/register"><i class=""></i>Logout</a></li>
+                                @endauth
+                                @guest
                                 <li><a href="/login"><i class="pe-7s-lock"></i>Login</a></li>
                                 <li><a href="/register"><i class="pe-7s-lock"></i>Register</a></li>
+                                @endguest
                             </ul>
                         </div>
                     </div>
@@ -74,7 +80,7 @@
                             <li class="active"><a href="/">Home</a></li>
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">page</a></li>
-                            <li><a href="#">shop</a></li>
+                            <li><a href="/shop">shop</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>

@@ -172,210 +172,6 @@
     </div>
 </section>
 
-<section class="featured-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="titie-section wow fadeInDown animated ">
-                    <h1>FEATURED PRODUCTS</h1>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="filter-menu">
-                    <ul class="button-group sort-button-group">
-                        <li class="button active" data-category="all">All<span>8</span></li>
-                        <li class="button" data-category="cat-1">Dresses and Suits<span>2</span></li>
-                        <li class="button" data-category="cat-2">Accessories<span>2</span></li>
-                        <li class="button" data-category="cat-3">Miscellaneous<span>4</span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="row featured isotope">
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-3 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product1.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="new-item">New</a>
-                        <a href="#" class="sell-item">Sell</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$26</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-2 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product2.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="new-item">New</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$21</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-1 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product3.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="new-item">New</a>
-                        <a href="#" class="sell-item">Sell</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$31</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-3 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product4.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="sell-item">Sell</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$56</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-2 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product5.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="sell-item">Sell</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$26</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-3 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product6.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="new-item">New</a>
-                        <a href="#" class="sell-item">Sell</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$36</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-1 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product7.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="new-item">New</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$56</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12 cat-3 featured-items isotope-item">
-                <div class="product-item">
-                    <img src="images/product8.png" class="img-responsive" width="255" height="322" alt="">
-                    <div class="sell-meta">
-                        <a href="#" class="sell-item">Sell</a>
-                    </div>
-                    <div class="product-hover">
-                        <div class="product-meta">
-                            <a href="#"><i class="pe-7s-like"></i></a>
-                            <a href="#"><i class="pe-7s-shuffle"></i></a>
-                            <a href="#"><i class="pe-7s-clock"></i></a>
-                            <a href="#"><i class="pe-7s-cart"></i>Add to Cart</a>
-                        </div>
-                    </div>
-                    <div class="product-title">
-                        <a href="#">
-                            <h3>Cool lingerie</h3>
-                            <span>$66</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="offer-section">
     <div class="container">
@@ -564,45 +360,49 @@
             </div>
         </div>
         <div id="client" class="row owl-carousel owl-theme client-area">
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_01.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
+            <div class="flex">
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_01.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_02.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_03.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_04.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
             </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_02.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
-            </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_03.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
-            </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_04.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
-            </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_01.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
-            </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_02.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
-            </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_03.jpg" class="img-responsive" width="350" height="200" alt="">
-                </a>
-            </div>
-            <div class="col-md-12 item">
-                <a href="#">
-                    <img src="images/client_04.jpg" class="img-responsive" width="300" height="200" alt="">
-                </a>
+            <div class="flex">
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_01.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_02.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_03.jpg" class="img-responsive" width="350" height="200" alt="">
+                    </a>
+                </div>
+                <div class="w-3/12 item">
+                    <a href="#">
+                        <img src="images/client_04.jpg" class="img-responsive" width="300" height="200" alt="">
+                    </a>
+                </div>
             </div>
         </div>
         <div class="customNavigation works-navigation">
